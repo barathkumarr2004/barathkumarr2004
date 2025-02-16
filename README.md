@@ -4,7 +4,9 @@
 ```c
 while(alive){
   printf("Do programming");
-}```
+}
+```
+
 
 <!--
 **barathkumarr2004/barathkumarr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
