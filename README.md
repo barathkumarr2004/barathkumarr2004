@@ -18,7 +18,7 @@
 
 <img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-- 🎓 **3rd Year IT Student**
+- 🎓 **Final Year IT Student**
 - 💻 Aspiring **Software Development Engineer**
 - 🌱 Currently learning **MERN Stack & Cloud Technologies**
 - 🔍 Interested in **Full Stack, AI & Scalable Systems**
