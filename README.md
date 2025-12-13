@@ -108,6 +108,20 @@
   <i>"Code is not just code, it's a way to solve real-world problems."</i>
 </p>
 
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barathkumarr2004/barathkumarr2004/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barathkumarr2004/barathkumarr2004/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ---
 
 ⭐ **If you like my profile, don’t forget to star my repositories!**
