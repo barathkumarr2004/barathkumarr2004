@@ -117,9 +117,7 @@
   <img src="https://raw.githubusercontent.com/barathkumarr2004/barathkumarr2004/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barathkumarr2004/barathkumarr2004/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 
 ---
