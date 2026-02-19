@@ -1,125 +1,130 @@
-<h1 align="center">
-  Hi 👋, I'm Barath Kumar R
-</h1>
-
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;IT+Student+%7C+Problem+Solver;Passionate+about+Web+%26+Software+Development" 
-    alt="Typing SVG" />
-</h3>
+<h1 align="center">BARATH KUMAR R</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barathkumarr2004&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>Aspiring Software Development Engineer | Full Stack Developer</b><br/>
+  B.Tech – Information Technology | Kongu Engineering College
+</p>
+
+<p align="center">
+  <a href="mailto:barathkumarr2004@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/barath-kumar-r-861488275">💼 LinkedIn</a> •
+  <a href="https://github.com/barathkumarr2004">💻 GitHub</a> •
+  <a href="https://barathkumarr.vercel.app">🌐 Portfolio</a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+I am a Final Year Information Technology student with hands-on experience in Full Stack Web Development using the MERN stack.
 
-- 🎓 **Final Year IT Student**
-- 💻 Aspiring **Software Development Engineer**
-- 🌱 Currently learning **MERN Stack & Cloud Technologies**
-- 🔍 Interested in **Full Stack, AI & Scalable Systems**
-- 🚀 Love building **real-world projects**
+I enjoy building scalable, user-friendly applications and continuously improving my problem-solving skills. I am actively seeking an entry-level Software Developer / SDE role where I can contribute, learn, and grow with a dynamic team.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Skills
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
 
-### ⚙️ Backend & DB
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### 🌐 Frontend Development
+- HTML5
+- CSS3
+- React.js
+- Angular
+- Tailwind CSS
+
+### ⚙ Backend Development
+- Node.js
+- Express.js
+
+### 🗄 Database
+- MongoDB
+- MySQL
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Diwali Chit Management App
-- Flutter + Express + MongoDB
-- Digital chit tracking system
-- Secure transactions & reports
+### 🔹 Diwali Chit Management Application
+**Tech Stack:** Flutter, Express.js, MongoDB  
 
-### 🔹 Apple Store – React E-Commerce
-- Product listings & cart
-- Responsive UI with Tailwind
-- Modern Apple-like design
-
-### 🔹 Android Smart Task Monitoring System
-- Face Recognition Login
-- AI-based task prioritization
-- Firebase Cloud Sync
+A mobile-friendly system to manage chit funds, member contributions, and payouts.  
+Enabled secure transaction tracking and digital record management for festive schemes.
 
 ---
 
-## 📜 Certifications
+### 🔹 Employee Management System
+**Tech Stack:** React.js, Express.js, MongoDB  
 
-- 🏅 MongoDB Associate Developer – MongoDB University  
-- 🏅 DBMS – Infosys Springboard  
-- 🏅 Privacy & Security in Online Social Media – NPTEL  
-- 🏅 Python Training – Besant Technologies  
+A full-stack web application to manage employee records, attendance, and payroll operations.  
+Implemented CRUD functionality with efficient database integration.
 
 ---
 
-## 📊 GitHub Stats (Animated)
+### 🔹 Quiz Application
+**Tech Stack:** Angular, Express.js, MongoDB  
+
+A responsive quiz platform that:
+- Displays one question at a time  
+- Includes countdown timer  
+- Calculates real-time score  
+- Shows performance summary  
+- Stores user progress using local storage  
+
+---
+
+## 🎓 Education
+
+**B.Tech – Information Technology (2023–2026)**  
+Kongu Engineering College  
+
+**Diploma – Computer Engineering (93%) (2020–2023)**  
+Dhanalakshmi Srinivasan Polytechnic College  
+
+---
+
+## 🏅 Certifications
+
+- MongoDB Associate Developer – MongoDB University  
+- DBMS – Infosys Springboard  
+- Privacy & Security in Online Social Media – NPTEL  
+- Python Training Certification  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barathkumarr2004&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barathkumarr2004&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barathkumarr2004&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathkumarr2004&layout=compact&theme=default" />
 </p>
+
+---
+
+## 📌 Career Objective
+
+To begin my career as a Software Developer in a growth-oriented organization where I can apply my technical knowledge, improve my skills, and contribute to impactful software solutions.
+
+---
+
+## 🤝 Connect With Me
+
+📧 barathkumarr2004@gmail.com  
+📍 Tamil Nadu, India  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathkumarr2004&layout=compact&theme=radical" />
+  ⭐ If you find my projects interesting, feel free to explore and connect!
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barathkumarr2004&theme=radical&row=1&column=7" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** barathkumarr.22it@kongu.edu  
-- 💼 **LinkedIn:** *(Add your LinkedIn URL)*  
-
----
-
-## ✨ Quote
-
-<p align="center">
-  <i>"Code is not just code, it's a way to solve real-world problems."</i>
-</p>
-
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barathkumarr2004/barathkumarr2004/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-
----
-
-⭐ **If you like my profile, don’t forget to star my repositories!**
